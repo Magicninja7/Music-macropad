@@ -1,3 +1,4 @@
+total: 9 hours
 
 # Day 0 (01.07.2025) ~2 hours
 Today i made the schematic and though of the design!
