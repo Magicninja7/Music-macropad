@@ -18,5 +18,6 @@ Why? I am annnoyed that i have to change pages (when a horrible song plays), to 
 | raspi pico | - | 1 | - | - |
 | Case | - | 1 | - | (my own 3d printer) |
 | pcb | 4$ | 1 | 4$ | https://cart.jlcpcb.com/shopcart/cart/ |
+total: 5$
 
 Note: the places where i placed -, means i already have that part so i don't need to purchase it
